@@ -1,0 +1,34 @@
+body {
+    background-image: url(jon-moore-Er3x1zmQqJk-unsplash.jpg);
+}
+td {
+    width: 20%;
+}
+button {
+    float: right;
+}
+.bg-body {
+    background-color: #124b4f !important;
+    color: #afd6df;
+}
+.form-control {
+    background-color: #aec1c7;
+}
+.btn {
+    background-color: #afd6df;
+    color: #124b4f;
+    border-color: #124b4f;
+}
+th, td{
+    border-color: #124b4f;
+}
+tr:nth-child(odd) {
+    background-color: #4a7e74;
+    color: #afd6df;
+    border-color: #124b4f;
+}
+tr:nth-child(even){
+    background-color: #5d5d48;
+    color: #afd6df;
+    border-color: #124b4f;
+}

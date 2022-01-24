@@ -1,0 +1,31 @@
+body {
+    background-image: url(wallpaper-g49a465865_1920.jpg);
+}
+.bg-primary {
+    background-color: #543a23 !important;
+    color: #f9ede1 !important;
+}
+.bg-body{
+    background-color: #d9b690 !important;
+}
+.card-body {
+    background-color: #9d784e;
+}
+.card-footer {
+    background-color: #fcf3ee;
+    color: #543a23; 
+}
+a {
+    color: #543a23;
+}
+.dropdown-menu {
+    background-color: #543a23;
+    
+}
+.dropdown-menu > li > a {
+    color: #f9ede1;
+}
+.dropdown-menu > li > a:hover {
+    $table-color:  #543a23;
+    color: #9d784e;
+}

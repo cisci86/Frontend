@@ -1,0 +1,18 @@
+body {
+    background-image: url(1200px-Star_Wars_Logo.svg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color{
+    color: #ffe919;
+}
+.btn
+{
+    background-color: black;
+    color: #ffe919;
+    border-color: #ffe919;
+}
+#output {
+    resize: none;
+    overflow: hidden;
+}

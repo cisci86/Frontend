@@ -1,0 +1,40 @@
+body {
+    background-image: url(adrien-olichon-gOdavfpH-3s-unsplash.jpg);
+}
+li {
+  overflow: auto  ;
+}
+i {
+    position: absolute;
+    right: 10px;
+    margin-top: 4px;
+}
+.bg-body {
+    background-color: #959595 !important;
+}
+.form-control,
+.form-control:active,
+.form-control:focus,
+.form-control:valid {
+    background-color: #e2e3e5 !important;
+    outline: none;
+    box-shadow: none;
+}
+input {
+    background-color: #e2e3e5;
+}
+#list-group-item{
+    background-color: #e2e3e5;
+}
+#varning {
+background-color: white;
+}
+.btn
+{
+    background-color: #202020;
+    color: white;
+    border-color: white;
+}
+.btn:hover{
+    color: white;
+}
